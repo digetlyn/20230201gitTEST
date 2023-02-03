@@ -13,15 +13,15 @@
     <h1> git test </h1>
     <h2> git edit </h2>
     
+
     <h2> eclipse update  </h2>
     
+
+    <h2> git update 230203 1416 </h2>
+
     
 </body>
 </html>
 
 
-작업내용이 추가되면 그대로 반영이 되는가? 4343
 
-이렇게 되면 또 반영이 되는가?
-
-또되는가?
